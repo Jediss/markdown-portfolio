@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Programming
+* Video games
+  * survival games
+  * strategic games
+  * action games
+* Reading books
+* Beer
