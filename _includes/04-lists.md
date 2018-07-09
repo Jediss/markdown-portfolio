@@ -5,3 +5,4 @@
   * action games
 * Reading books
 * Beer
+* Vodka
